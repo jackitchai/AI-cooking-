@@ -1,138 +1,138 @@
 id,menu
-1,ขนมจีบปู
+1, Crab Dumplings
 2,
-3,ทอดมันปลา
-4,กระทงทอง
-5,หมูโสร่งปู
-6,ยําปลาดุกฟู
-7,ยําไข่เค็ม
-8,ยําเห็ดรวมมิตร
-9,ยําหัวปลี
-10,ตํามะม่วง
-11,ยําหอยแมลงภู่
-12,ซุปหน่อไม้
-13,ยําวุ้นเส้น
-14,"๑,     สยากุนเชยง"
-15,ตําแตง
-16,ยําไข่ดาว
-17,ตําผลไม้
-18,"๑,     สยามะเขอยาว"
-19,ยําปลาทูผู
-20,ยําส้มโอ
-21,ยําทะเล
-22,ยําปลาหมึก
-23,0ต้มจืดหน่อไม้
-24,0แกงจืดหน่อไม้
-25,แกงจืดวุ้นเส้น
-26,ต้มจืดวุ้นเส้น
-27,ต้มข่าไก่
-28,ต้มเค็มหมู
-29,หมูต้มเค็ม
-30,ต้มยําเห็ดมังสวิรัติ
-31,ต้มแซ่บกระดูกอ่อน
-32,ต้มจืดปลาหมึกยัดไส้
-33,"-        ""ต้มจืดมะระยัดไส้"
-34,ฐแกงจืดแตงกวายัดไส้
-35,ย           ทยต้มจืดแตงกวายัดไส้
-36,แกงจืดผักกาดขาวกับวุ้นเส้น
-37,ต้มจืดผักกาดขาวกับวุ้นเส้น
-38,ส                      :แกงเขียวหวานไก่
-39,ซ่ห !แกงกะหรีไก่
-40,แกงไก่หน่อไม้ดอง
-41,""" 0แกงเผ็ดไก่หน่อไม้ดอง"
-42,แกงเขียวหวานลูกชินปลากราย
-43,แกงไตปลา
-44,แกงส้มมะละกอกุ้ง
-45,แกงส้มดอกแคกุ้ง
-46,แกงส้มผักรวม
-47,แกงมัสมันเนื่อ
-48,แกงมัสมันไก่
-49,ฉัพะแนงเนอ
-50,๕          1แกงเผ็ดเป็ดย่าง
-51,แกงส้มปลาช่อนทอดแป๊ะช๊ะ
-52,แกงผักหวานไข่มดแดง
-53,ฐแกงเลยง
-54,แกงเผ็ดเห็ดมังสวิรัติ
-55,แกงสัมผักกระเฉดกุ้ง
-56,ฐ      ทูมแกงเหลืองหน่อไม้
-57,เนื้อผัดนํามันหอย
-58,“พูบจดผงกะหจะ=ะ5
-59,คะน้าหมูกรอบ
-60,ผัดเผ็ดนกกระทา
-61,รผัดเผ็ดปลาดุก
-62,ผัดเผ็ดหมูป่า
-63,หน่อไม้ฝรั่งผัดกุ้ง
-64,ผัดวุ้นเส้น
-65,เนื้อตะไคร้
-66,ไก่ผัดเม็ดมะม่วงหิมพานต์
-67,ไก่ผัดกะเพรากรอบ
-68,ไก่ผัดขิง
-69,ผัดกะเพรากุ้ง
-70,ปลากะพงผัดขึ้นฉ่าย
-71,ปลากะพงผัดพริกไทยดํา
-72,ปลาช่อนผัดต้นกระเทียม
-73,ปลาหมึกผัดไข่เค็ม
-74,ผัดผักกระเฉด
-75,ผัดเปรียวหวานกุ้ง
-76,ปีกไก่นําแดง
-77,ปลานิลทอดกระเทียมพริกไทย
-78,ปลากะพงทอดซอสมะขามเปียก
-79,ปลาเก๋าสามรส
+3, Fish Cakes
+4, Golden Cups
+5, Minced Pork and Crab Wrapped in Noodles
+6, Spicy Crispy Catfish Salad
+7, Spicy Salted Egg Salad
+8, Spicy Mixed Mushroom Salad
+9, Spicy Banana Blossom Salad
+10, Spicy Mango Salad
+11, Spicy Mussel Salad
+12, Bamboo Shoot Soup
+13, Spicy Glass Noodle Salad
+14, Spicy Grilled Pork Neck Salad
+15, Spicy Cucumber Salad
+16, Spicy Fried Egg Salad
+17, Spicy Fruit Salad
+18, Spicy Long Bean Salad
+19, Spicy Mackerel Salad
+20, Spicy Pomelo Salad
+21, Spicy Seafood Salad
+22, Spicy Squid Salad
+23, Bamboo Shoot Clear Soup
+24, Bamboo Shoot Clear Soup
+25, Clear Soup with Glass Noodles
+26, Clear Soup with Glass Noodles
+27, Chicken Galangal Soup
+28, Stewed Pork
+29, Stewed Pork
+30, Vegetarian Spicy Mushroom Soup
+31, Spicy Pork Rib Soup
+32, Clear Soup with Stuffed Squid
+33, Clear Soup with Stuffed Bitter Melon
+34, Clear Soup with Stuffed Cucumber
+35, Clear Soup with Stuffed Cucumber
+36, Clear Soup with Napa Cabbage and Glass Noodles
+37, Clear Soup with Napa Cabbage and Glass Noodles
+38, Green Curry with Chicken
+39, Chicken Curry
+40, Chicken Curry with Pickled Bamboo Shoots
+41, Spicy Chicken Curry with Pickled Bamboo Shoots
+42, Green Curry with Fish Balls
+43, Southern Thai Curry
+44, Sour Curry with Papaya and Shrimp
+45, Sour Curry with Sesbania and Shrimp
+46, Sour Curry with Mixed Vegetables
+47, Massaman Curry with Beef
+48, Massaman Curry with Chicken
+49, Panang Curry with Beef
+50, Spicy Red Curry with Roasted Duck
+51, Sour Curry with Fried Snakehead Fish
+52, Sweet Leaf Curry with Ant Eggs
+53, Lemongrass Curry
+54, Vegetarian Spicy Red Curry with Mushrooms
+55, Sour Curry with Water Mimosa and Shrimp
+56, Yellow Curry with Bamboo Shoots
+57, Stir-fried Beef with Oyster Sauce
+58, Stir-fried Spicy Prawn Paste
+59, Stir-fried Kale with Crispy Pork
+60, Spicy Stir-fried Quail
+61, Spicy Stir-fried Catfish
+62, Spicy Stir-fried Wild Boar
+63, Stir-fried Asparagus with Shrimp
+64, Stir-fried Glass Noodles
+65, Stir-fried Beef with Lemongrass
+66, Stir-fried Chicken with Cashew Nuts
+67, Stir-fried Chicken with Crispy Basil
+68, Stir-fried Chicken with Ginger
+69, Stir-fried Shrimp with Basil
+70, Stir-fried Sea Bass with Celery
+71, Stir-fried Sea Bass with Black Pepper
+72, Stir-fried Snakehead Fish with Garlic Chives
+73, Stir-fried Squid with Salted Egg
+74, Stir-fried Water Mimosa
+75, Sweet and Sour Stir-fried Shrimp
+76, Chicken Wings in Red Sauce
+77, Fried Nile Tilapia with Garlic and Pepper
+78, Fried Sea Bass with Tamarind Sauce
+79, Three-flavored Grouper
 80,
-81,ปลาเนื่ออ่อนราดพริก
-82,ปลาช่อนลุยสวน
-83,ไก่นึงตะไคร้
-84,1หอยแมลงภู่นึ่งใบโหระพา
-85,ปลากะพงนึงมะนาว
-86,ปลาช่อนแป๊ะซะ
-87,ปลาหมึกยัดไส้นึ่งมะนาว
+81, Deep-fried Featherback Fish with Chili
+82, Snakehead Fish in Herbal Sauce
+83, Steamed Chicken with Lemongrass
+84, Steamed Mussels with Basil
+85, Steamed Sea Bass with Lime
+86, Snakehead Fish in Spicy Sauce
+87, Steamed Squid with Lime
 88,
-89,""" ""เนอตุนหดหอม"
-90,ซีดตํจาเรรเปิดตุ๋นเห็ดหอม
+89, Braised Beef with Shiitake Mushrooms
+90, Herbal Mushroom Soup
 91,
-92,ย      ฐกุงอบเกลอ
-93,ปูอบวุ้นเส้น
-94,หอยแมลงภู่อบ
-95,ไก่ย่าง
-96,ทะเลเผา
-97,ข้าวผัดอเมริกัน
-98,ข้าวผัดไก่
-99,ข้าวผัดปูย
-100,หอยทอด
-101,ข้าวผัดหมูแฮม
-102,ข่ ขั <ขาวผดเนอเคม
-103,ข้าวผัดมันกุ้ง
-104,ข้าวผัดปลาสลิด
-105,ฐ      ส          :ขนมจีนแกงเขียวหวานไก่
-106,+     ฆ้     ๑7ก๋วยเตียวผัดไทย
-107,ข้าวผัดสับปะรด
-108,ข้าวผัดหมู
-109,ข้าวอบหม้อดิน
-110,ข้าวหมูกรอบ
-111,ข้าวขาหมู
-112,ข้าวผัดทะเล
-113,ข้าวผัดกุ้ง
-114,ฉั ซ่เกาเหลาเนื้อเปอย
-115,๑๕ก๋วยเตียวผัดซีอิว
-116,ข้าวผัดขมิน
-117,ข้าวผัดมังสวิรัติ
-118,นําพริกปลา
-119,6นําพริกผัด
-120,นําพริกปลาดุกย่าง
-121,ป่นปลาย่าง
-122,นําพริกตะไคร้
-123,นําพริกเผา
-124,นําพริกมะขาม
-125,ไข่ระเบิด
-126,ไข่เจียวหมูสับ
-127,ไข่พะโล้
-128,ไข่ดาว
-129,ไข่ทอดชะอม
-130,ฝอยทอง
-131,ถัวเขียวต้มนําตาล
-132,ข้าวเหนียวมะม่วง
-133,ข้าวเหนียวสังขยา
+92, Salt-baked Prawns
+93, Baked Crab with Glass Noodles
+94, Baked Mussels
+95, Grilled Chicken
+96, Grilled Seafood
+97, American Fried Rice
+98, Chicken Fried Rice
+99, Crab Fried Rice
+100, Oyster Omelette
+101, Fried Rice with Ham
+102, Salted Fish Fried Rice
+103, Shrimp Paste Fried Rice
+104, Fried Rice with Crispy Gourami
+105, Green Curry with Rice Noodles
+106, Pad Thai
+107, Pineapple Fried Rice
+108, Pork Fried Rice
+109, Clay Pot Baked Rice
+110, Crispy Pork Rice
+111, Pork Leg Rice
+112, Seafood Fried Rice
+113, Shrimp Fried Rice
+114, Beef Stew Noodle Soup
+115, Stir-fried Noodles with Soy Sauce
+116, Turmeric Fried Rice
+117, Vegetarian Fried Rice
+118, Chili Paste with Fish
+119, Stir-fried Chili Paste
+120, Grilled Catfish Chili Paste
+121, Grilled Fish Dip
+122, Lemongrass Chili Paste
+123, Roasted Chili Paste
+124, Tamarind Chili Paste
+125, Fried Egg with Chili Paste
+126, Minced Pork Omelette
+127, Pork and Egg Stew
+128, Fried Egg
+129, Acacia Omelette
+130, Golden Threads (Fios de Ovos)
+131, Mung Bean Dessert
+132, Mango Sticky Rice
+133, Sticky Rice with Custard
 134,
-135,สาคูเปียกข้าวโพด
-136,สังขยา
-137,สังขยา
+135, Tapioca Pearl Pudding with Corn
+136, Custard
+137, Custard
